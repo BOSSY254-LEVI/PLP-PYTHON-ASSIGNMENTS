@@ -19,7 +19,8 @@
 
 - **Week 2 Assignment** 📝 → Intro to Python & basic problem-solving  
 - **Week 3 Assignment** 🔧 → Python functions & modular code  
-- **Simple Calculator** ➗ → A working calculator script (`simplecalc.py`)  
+- **Simple Calculator** ➗ → A working calculator script (`simplecalc.py`)
+- **Week 4 py   → file handling and error            
 
 ---
 
