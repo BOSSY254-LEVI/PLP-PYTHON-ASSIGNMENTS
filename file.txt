@@ -1,2 +1,0 @@
-This is my python file.
-I will use it as an example to demonstrate file handling in Python.
